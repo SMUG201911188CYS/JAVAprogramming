@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="untitled">
+    <output-path>$PROJECT_DIR$/out/artifacts/untitled</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="" />
+        <option name="description" value="" />
+        <option name="height" value="768" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="exe" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+        <option name="width" value="1024" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="untitled.jar">
+        <element id="module-output" name="untitled" />
+      </element>
+      <element id="library" level="application" name="jl1.0.1" />
+    </root>
+  </artifact>
+</component>
